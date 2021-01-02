@@ -1,0 +1,16 @@
+{
+  "name": "quote-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for gathering quotes for the year",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdwile",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
