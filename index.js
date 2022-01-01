@@ -4,8 +4,8 @@ const fs = require('fs');
 
 const TOKEN = process.env.TOKEN;
 const CHANNEL_ID = process.env.CHANNEL_ID
-const THIS_YEAR_TIMESTAMP = 1609502400000
-const LAST_YEAR_TIMESTAMP = 1577880000000
+const THIS_YEAR_TIMESTAMP = 1641013200000
+const LAST_YEAR_TIMESTAMP = 1609477200000
 
 const client = new Discord.Client();
 
